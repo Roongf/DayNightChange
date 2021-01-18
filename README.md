@@ -1,11 +1,11 @@
 # DayNightChange
 
-  一个简单的日间/夜间模式无缝切换的功能，可定制化。
+  一个简单的日间/夜间模式无缝切换的功能，无需重启App，可定制化。
   
   支持设置背景图(android:background)、文字颜色(android:textColor)、图片(android:src)。
 
 # 效果
-![image](https://github.com/Roongf/DayNightChange/blob/master/device-2021-01-18-153822.gif)  
+![image](https://github.com/Roongf/DayNightChange/blob/master/device-2021-01-18-154847.gif)  
 
 # How to use:
 
