@@ -5,7 +5,8 @@
   支持设置背景图(android:background)、文字颜色(android:textColor)、图片(android:src)。
 
 # 效果
-![image][]
+![image](https://github.com/Roongf/DayNightChange/blob/master/device-2021-01-18-153822.gif)  
+
 # How to use:
 
  1.NightModeConfigManager.init(context) 初始化 context 用来记录App的模式  
