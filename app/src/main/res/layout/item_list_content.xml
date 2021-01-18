@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="horizontal">
+
+    <com.rf.daynighttheme.widget.DNTextView
+        android:id="@+id/id_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/text_margin"
+        android:textColor="@color/color_d_000000_n_ffffff" />
+
+    <com.rf.daynighttheme.widget.DNTextView
+        android:id="@+id/content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/text_margin"
+        android:textColor="@color/color_d_000000_n_ffffff" />
+
+    <com.rf.daynighttheme.widget.DNImageView
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_marginStart="10dp"
+        android:src="@drawable/icon_day_night" />
+
+    <com.rf.daynighttheme.widget.DNButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:background="@drawable/selector_shape_button_pressed_bg"
+        android:text="Hold it"
+        android:textColor="@color/color_ffffff_0288D1" />
+
+</LinearLayout>

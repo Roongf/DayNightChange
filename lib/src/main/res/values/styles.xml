@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DayNightView">
+        <attr name="android:background" />
+        <attr name="android:textColor" />
+        <attr name="android:src" />
+    </declare-styleable>
+</resources>
